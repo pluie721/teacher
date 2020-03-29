@@ -8,5 +8,10 @@ package com.atguigu;
 public class name {
     public static void main(String[] args) {
         System.out.println("riooooo");
+        System.out.println("riooooo");
+        System.out.println("riooooo");
+        System.out.println("riooooo");
+        System.out.println("riooooo");
+        System.out.println("riooooo");
     }
 }
